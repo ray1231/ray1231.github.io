@@ -1,5 +1,5 @@
 # 40717017 作業4 洪永緒
-![]https://raw.githubusercontent.com/ray1231/ray1231.github.io/main/1.jpg
+ ! []https://raw.githubusercontent.com/ray1231/ray1231.github.io/main/1.jpg
 
 
 ## Welcome to GitHub Pages
